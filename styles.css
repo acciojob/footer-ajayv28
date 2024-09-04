@@ -15,3 +15,16 @@
 .link-boxes{
 	color:white;
 }
+
+.bottom-details{
+	background-color:grey;
+}
+.media-icons{
+	display:flex;
+	flex-direction:row;
+}
+
+.link-boxes{
+	display:flex;
+	flex-direction:row;
+}
