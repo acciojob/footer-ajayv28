@@ -1,1 +1,17 @@
 /* your code here */
+
+.content{
+	background-color:black;
+}
+.logo_name{
+	color:white;
+}
+.top{
+	display:flex;
+	flex-direction:row;
+	justify-content:space-between;
+}
+
+.link-boxes{
+	color:white;
+}
